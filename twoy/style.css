@@ -1,0 +1,177 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.header{
+    background-color: rgb(155, 155, 229);
+    height:150px;
+    width:2300px;
+}
+
+.all{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.firsty{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.firsty img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.firsty div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.firsty:hover{
+    background-color: black;
+    color:white;
+}
+
+.secondy{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.secondy img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.secondy div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.secondy:hover{
+    background-color: black;
+    color:white;
+}
+
+.thirdy{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.thirdy img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.thirdy div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.thirdy:hover{
+    background-color: black;
+    color:white;
+}
+
+.fourthy{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.fourthy img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.fourthy div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.fourthy:hover{
+    background-color: black;
+    color:white;
+}
+
+.fifthy{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.fifthy img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.fifthy div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.fifthy:hover{
+    background-color: black;
+    color:white;
+}
+
+.sixthy{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: row;
+    margin-top: 35px;
+    background-color: white;
+    padding:10px 20px;
+}
+
+.sixthy img{
+    width:35px;
+    height:35px;
+    background-color:white;
+}
+
+.sixthy div{
+    font-size: 25px;
+    margin-left:5px
+}
+
+.sixthy:hover{
+    background-color: black;
+    color:white;
+}
